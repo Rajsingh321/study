@@ -1,0 +1,5 @@
+phi
+groq
+duckduckgo
+youtube
+wikipedia
